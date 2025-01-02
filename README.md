@@ -37,22 +37,8 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
    ```bash
    git clone https://github.com/zeyame/CIFAR10-CNN.git
    ```
+   
+2. **Run the Model**:
+   - Open the `code.ipynb` file in Jupyter Notebook or any compatible environment.
+   - Execute the cells step-by-step to preprocess the data, train the model, and evaluate its performance.
 
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Project**:
-   - Train the model:
-     ```bash
-     python train.py
-     ```
-   - Evaluate the model:
-     ```bash
-     python evaluate.py
-     ```
-
-4. **Explore Results**:
-   - Visualize training and validation metrics.
-   - Test the model with custom images.
